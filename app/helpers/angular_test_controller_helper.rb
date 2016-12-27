@@ -1,0 +1,2 @@
+module AngularTestControllerHelper
+end
